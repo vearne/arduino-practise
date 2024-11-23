@@ -13,3 +13,8 @@ small light controlled by a button
 sensor trash can
 
 [玩转Arduino(3)-感应式垃圾桶](https://vearne.cc/archives/40195)
+
+## 4. weather
+Weather forecast display
+
+[玩转Arduino(4)-天气预报](https://vearne.cc/archives/40215)
